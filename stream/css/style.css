@@ -1,0 +1,46 @@
+
+body {
+    background: #000000;
+    color: aqua;
+    max-width: 90%;
+    padding: -50px;
+  }
+  
+  .col-md-12{
+    padding: 0px;
+    width: 100%;
+  }
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+  }
+
+#banner{
+    max-width: 90%;
+    height: auto;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+.button{
+  height: 100px;
+  width: auto;
+}
+
+.iframe-container{
+    position: relative;
+    align-items: center;
+    max-width: 100%;
+    margin-left: 27.5%;
+    margin-top: -40.17%;
+    padding-bottom: 56.25%; 
+    height: 0;
+  }
+  .iframe-container iframe{
+    position: absolute;
+    align-items: center;
+    top:0;
+    left: 0;
+    width:76%;
+    height: 51.8%;
+  }
